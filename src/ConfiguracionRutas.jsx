@@ -11,7 +11,7 @@ import Conclusion from "./Pages/Conclusion";
 
 export const ConfiguracionRutas=[
   {
-    path:'/',
+    path:'/RevistaSeminario',
     element:<Inicio/>,
   },
   {
