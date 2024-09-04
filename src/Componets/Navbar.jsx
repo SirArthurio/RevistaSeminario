@@ -67,7 +67,7 @@ export default function Barra() {
         <NavbarBrand>
           <IoLayersOutline />
 
-          <Link to="/">
+          <Link to="/RevistaSeminario">
             <p className="font-bold text-inherit">TRAVELING CONDOR</p>
           </Link>
         </NavbarBrand>
