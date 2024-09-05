@@ -81,7 +81,7 @@ export default function Tabla() {
   return (
     <div>
     <section className="border bg-[#252525] text-white text-center text-2xl p-4 h-full">
-      <h2 className="p-2 m-2">Ventajas Y Desventajas</h2>
+      <h2 className="p-2 m-2">Revistas y tipos</h2>
       <DataTable columns={columnas} data={data}  theme="nier"/>
     </section>
     </div>
